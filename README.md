@@ -1,5 +1,5 @@
 # ml-power-prediction
-![image](https://github.com/power-prediction/ml-power-prediction/assets/57518426/3f005844-12c1-4c34-9203-6d63ed3b64bf)
+![resized](https://github.com/power-prediction/power-ml/assets/51077803/a038c838-b20e-48ab-9909-a275e1e5dc05)
 
 ## plan
 - 데이터 형식
