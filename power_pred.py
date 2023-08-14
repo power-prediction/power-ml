@@ -107,3 +107,6 @@ ran_y_pred1 = ranfor_add.predict(X_test)
 ran_mape1 =mean_absolute_percentage_error(y_test,ran_y_pred1)
 
 print(ran_mape1)
+
+with open('rf_model.pkl', 'wb') as file:
+    pickle.dump(ranfor_add, file)
